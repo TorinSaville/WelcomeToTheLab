@@ -1,0 +1,24 @@
+﻿  Using bundled DotNet SDK
+  Log file: C:\Users\torin\AppData\Local\UnrealBuildTool\Log.txt
+  Invalidating makefile for InteractionAssignEditor (working set of source files changed)
+  Parsing headers for InteractionAssignEditor
+    Running UnrealHeaderTool "C:\Users\torin\OneDrive\Documents\University\Year 2\Semester 1\PFI\Assignment\InteractionAssign\InteractionAssign.uproject" "C:\Users\torin\OneDrive\Documents\University\Year 2\Semester 1\PFI\Assignment\InteractionAssign\Intermediate\Build\Win64\InteractionAssignEditor\Development\InteractionAssignEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\torin\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for InteractionAssignEditor in 10.8119155 seconds
+  Building InteractionAssignEditor...
+  Using Visual Studio 2019 14.29.30147 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.22000.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  [Adaptive Build] Excluded from InteractionAssign unity file: TextFileManager.cpp, InteractionAssign.cpp, InteractionAssignCharacter.cpp, InteractionAssignGameMode.cpp
+  Determining max actions to execute in parallel (6 physical cores, 6 logical cores)
+    Executing up to 6 processes, one per physical core
+    Requested 1.5 GB free memory per action, 4.3 GB available: limiting max parallel actions to 2
+  Building 7 actions with 2 processes...
+  [1/7] Compile InteractionAssign.init.gen.cpp
+  [2/7] Compile InteractionAssignCharacter.gen.cpp
+  [3/7] Compile InteractionAssignCharacter.cpp
+  [4/7] Compile InteractionAssignGameMode.cpp
+  [5/7] Link UnrealEditor-InteractionAssign-0002.lib
+     Creating library C:\Users\torin\OneDrive\Documents\University\Year 2\Semester 1\PFI\Assignment\InteractionAssign\Intermediate\Build\Win64\UnrealEditor\Development\InteractionAssign\UnrealEditor-InteractionAssign-0002.lib and object C:\Users\torin\OneDrive\Documents\University\Year 2\Semester 1\PFI\Assignment\InteractionAssign\Intermediate\Build\Win64\UnrealEditor\Development\InteractionAssign\UnrealEditor-InteractionAssign-0002.exp
+  [6/7] Link UnrealEditor-InteractionAssign-0002.dll
+     Creating library C:\Users\torin\OneDrive\Documents\University\Year 2\Semester 1\PFI\Assignment\InteractionAssign\Intermediate\Build\Win64\UnrealEditor\Development\InteractionAssign\UnrealEditor-InteractionAssign-0002.suppressed.lib and object C:\Users\torin\OneDrive\Documents\University\Year 2\Semester 1\PFI\Assignment\InteractionAssign\Intermediate\Build\Win64\UnrealEditor\Development\InteractionAssign\UnrealEditor-InteractionAssign-0002.suppressed.exp
+  [7/7] WriteMetadata InteractionAssignEditor.target
+  Total time in Parallel executor: 15.85 seconds
+  Total execution time: 32.67 seconds

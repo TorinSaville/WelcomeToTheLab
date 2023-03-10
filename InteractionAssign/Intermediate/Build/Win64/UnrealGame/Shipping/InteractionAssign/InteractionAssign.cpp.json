@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\interactionassign\\source\\interactionassign\\interactionassign.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\interactionassign\\intermediate\\build\\win64\\interactionassign\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\interactionassign\\intermediate\\build\\win64\\unrealgame\\shipping\\interactionassign\\definitions.interactionassign.h",
+            "c:\\interactionassign\\source\\interactionassign\\interactionassign.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

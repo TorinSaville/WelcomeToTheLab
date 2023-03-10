@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\interactionassign\\intermediate\\build\\win64\\unrealgame\\inc\\interactionassign\\interactionassigngamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\interactionassign\\intermediate\\build\\win64\\interactionassign\\shipping\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\interactionassign\\intermediate\\build\\win64\\unrealgame\\shipping\\interactionassign\\definitions.interactionassign.h",
+            "c:\\interactionassign\\source\\interactionassign\\interactionassigngamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\interactionassign\\intermediate\\build\\win64\\unrealgame\\inc\\interactionassign\\interactionassigngamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

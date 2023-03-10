@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionassign\\interactionassign.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\intermediate\\build\\win64\\interactionassigneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\intermediate\\build\\win64\\unrealeditor\\development\\interactionassign\\definitions.interactionassign.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

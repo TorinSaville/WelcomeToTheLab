@@ -1,0 +1,2 @@
+Date,StartTime,GameTime,EndTime,,DamageItems,HealthItems,StaminaItems,TotalItems,,DamageTaken,HealthHealed,,ExitReason
+16/12,3:5:10,0:8,3:5:20,,2,0,0,2,,35,0,,PlayerQuit,

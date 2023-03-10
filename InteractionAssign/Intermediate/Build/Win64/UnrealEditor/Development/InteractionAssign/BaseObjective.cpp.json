@@ -1,0 +1,21 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\source\\interactionassign\\baseobjective.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\intermediate\\build\\win64\\interactionassigneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\intermediate\\build\\win64\\unrealeditor\\development\\interactionassign\\definitions.interactionassign.h",
+            "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\source\\interactionassign\\baseobjective.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\assetregistry\\arfilter.h",
+            "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionassign\\baseobjective.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

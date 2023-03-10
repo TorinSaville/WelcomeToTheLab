@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionassign\\ftdamage.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\intermediate\\build\\win64\\interactionassigneditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\intermediate\\build\\win64\\unrealeditor\\development\\interactionassign\\definitions.interactionassign.h",
+            "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\source\\interactionassign\\ftdamage.h",
+            "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\source\\interactionassign\\floortile.h",
+            "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionassign\\floortile.generated.h",
+            "c:\\users\\torin\\onedrive\\documents\\university\\year 2\\semester 1\\pfi\\assignment\\interactionassign\\intermediate\\build\\win64\\unrealeditor\\inc\\interactionassign\\ftdamage.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

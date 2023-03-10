@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\InteractionAssign\\Source\\InteractionAssign\\InteractionAssign.Build.cs",
+		"C:\\InteractionAssign\\Source\\InteractionAssign.Target.cs",
+		"C:\\InteractionAssign\\Source\\InteractionAssignEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
